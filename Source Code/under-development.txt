@@ -1,7 +1,0 @@
-This versions is still under development!
-
--V1.1 will have some major UI updates and will come with two color themes.
-
-Help us by sharing this as this project is open source and completely free.
-
-Thank You!
