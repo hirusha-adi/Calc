@@ -7,6 +7,6 @@ Make sure to stick with us to enjoy and experienece all of it!
 
 *RULES:*
 Downloading this project and sharing this as yours is prohibited
-For modifications, do a new pull request and after reviewing that and if i want to update it, credits will be given!
+For modifications, do a new pull request and after reviewing that and if i want to update it, credits will be given! or just fork it :)
 
 Thank You!
